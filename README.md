@@ -2,7 +2,7 @@
 
 :date: January 2023  
 :paintbrush: Frontend  
-:link: Netlify check it [here](https://neon-muffin-936ac2.netlify.app/)
+:link: Netlify check it [here](https://rad-kitsune-34e008.netlify.app/)
 
 ## Overview - Welcome :dog:
 
@@ -17,7 +17,7 @@ This project was made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.
 
 ---
 
-:ballot_box_with_check: Create layout  
+:ballot_box_with_check: Do integration (CSS and ReactJS)
 :ballot_box_with_check: Create components  
 :ballot_box_with_check: Make responsive
 
@@ -40,9 +40,9 @@ Be sure, you have installed all dependencies to run the project.
 
 1️. Clone this repository
 
-`git clone https://github.com/KevinGent3/counters.git`
+`git clone https://github.com/KevinGent3/Netflix.git`
 
-`cd counters`
+`cd Netflix`
 
 2️. Install packages
 
