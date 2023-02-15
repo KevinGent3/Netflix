@@ -11,15 +11,14 @@
 This project was made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.
 1 screens is avalaible: Netflix home page desktop.
 
-![Netflix home page desktop](src/assets/desktop.png)
+![Netflix home page desktop](src/assets/images/desktop.png)
 
 ## Tasks :pencil2:
 
 ---
 
-:ballot_box_with_check: Do integration (CSS and ReactJS)
-:ballot_box_with_check: Create components  
-:ballot_box_with_check: Make responsive
+:ballot_box_with_check: Do integration (CSS and ReactJS)  
+:ballot_box_with_check: Create components
 
 ## Stacks :books:
 
